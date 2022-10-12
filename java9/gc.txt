@@ -1,0 +1,6 @@
+Using G1
+ConcGCThreads: 1 offset 8
+ParallelGCThreads: 4
+Initialize mark stack with 4096 chunks, maximum 524288
+GC(0) Pause Young (Normal) (G1 Evacuation Pause) 12M->2M(256M) 4.947ms
+GC(1) Pause Young (Normal) (G1 Evacuation Pause) 12M->4M(256M) 4.881ms
